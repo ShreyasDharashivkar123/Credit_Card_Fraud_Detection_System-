@@ -1,0 +1,19 @@
+Steps for how to run python flask
+
+1. C:\Users\OM>cd Desktop
+
+2. C:\Users\OM\Desktop>cd CreditCardAppDemo
+
+3. C:\Users\OM\Desktop\CreditCardAppDemo>py -m venv env
+
+4. C:\Users\OM\Desktop\CreditCardAppDemo>env\Scripts\activate
+
+#if on pc and laptop does not install flask framework and so the we use this code 
+
+5. (env) C:\Users\OM\Desktop\CreditCardAppDemo>pip install flask
+
+6. (env) C:\Users\OM\Desktop\CreditCardAppDemo>set FLASK_APP=creditcardapp.PY
+
+7. (env) C:\Users\OM\Desktop\CreditCardAppDemo>flask run
+
+8. copy url and paste it 
