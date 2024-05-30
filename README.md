@@ -4,6 +4,10 @@
 2. Implemented credit card fraud dection system using Python(Bot Logic) it can be checked transaction details is fraud or not(Sucess/Danger).
 3. Tech Used:- HTML/CSS,JavaScript,Js Query,Python(Flask)
 
+Technology Used:- 
+Python Flask 
+![image](https://github.com/ShreyasDharashivkar123/Credit_Card_Fraud_Detection_System-/assets/126081774/61f0d158-e4bd-4da0-891e-ada7c75377d9)
+
 
 -Output
 ![image](https://github.com/ShreyasDharashivkar123/Credit_Card_Fraud_Detection_System-/assets/126081774/50872680-33af-42a5-b17b-94d3c41bd69b)
